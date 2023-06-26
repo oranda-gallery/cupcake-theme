@@ -1,4 +1,7 @@
 {
+    "project": {
+        "name": "cupcake theme"
+    },
     "styles" : {
         "theme": "cupcake"
     }
